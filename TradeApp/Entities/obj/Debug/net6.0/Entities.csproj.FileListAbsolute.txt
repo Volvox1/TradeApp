@@ -1,0 +1,37 @@
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\bin\Debug\net6.0\testhost.exe
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\bin\Debug\net6.0\testhost.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Entities\obj\Debug\net6.0\Entities.csproj.Up2Date
