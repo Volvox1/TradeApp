@@ -1,0 +1,31 @@
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Uğur\Desktop\banka uygulaması\BankApp\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\bin\Debug\net6.0\testhost.exe
+C:\Users\Uğur\Desktop\E ticaret uygulaması\TradeApp\Core\bin\Debug\net6.0\testhost.dll
